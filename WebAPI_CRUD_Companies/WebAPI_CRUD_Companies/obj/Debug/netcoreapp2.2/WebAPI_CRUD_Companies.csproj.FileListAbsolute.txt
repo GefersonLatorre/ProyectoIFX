@@ -1,0 +1,14 @@
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.deps.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.runtimeconfig.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.runtimeconfig.dev.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.dll
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.csprojAssemblyReference.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.csproj.CoreCompileInputs.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.RazorAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.RazorAssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.AssemblyInfoInputs.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.AssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.RazorTargetAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.pdb
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.dll
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Companies\WebAPI_CRUD_Companies\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Companies.pdb

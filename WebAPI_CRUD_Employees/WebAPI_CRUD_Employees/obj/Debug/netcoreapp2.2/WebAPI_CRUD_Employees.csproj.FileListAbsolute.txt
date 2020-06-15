@@ -1,0 +1,14 @@
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.deps.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.runtimeconfig.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.runtimeconfig.dev.json
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.dll
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.csprojAssemblyReference.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.csproj.CoreCompileInputs.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.RazorAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.RazorAssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.AssemblyInfoInputs.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.AssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.RazorTargetAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\bin\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.pdb
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.dll
+C:\Users\Geferson Latorre\Desktop\ProyectoIFX\WebAPI_CRUD_Employees\WebAPI_CRUD_Employees\obj\Debug\netcoreapp2.2\WebAPI_CRUD_Employees.pdb
